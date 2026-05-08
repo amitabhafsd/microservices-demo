@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="03 Auth Service Demo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="auth-service-demo" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.microsvc.demo.authservice.AuthServiceDemoApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

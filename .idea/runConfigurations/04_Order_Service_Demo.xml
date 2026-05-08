@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="04 Order Service Demo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="order-service-demo" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.microsvc.demo.orderservice.OrderServiceDemoApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="07 Api Gateway Demo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="api-gateway-demo" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.microsvc.demo.apigateway.ApiGatewayDemoApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="02 Config Server Demo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="config-server-demo" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.microsvc.demo.config_server_demo.ConfigServerDemoApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="01 Eureka Demo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="eureka-demo" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.microsvc.demo.eureka_demo.EurekaDemoApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
