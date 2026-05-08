@@ -1,0 +1,8 @@
+##  In Spring Boot 3.x, bootstrap.yml is no longer used by default.
+#
+#    So your config is basically ignored.
+#
+#    ✅ Correct Fix
+#    👉 Move everything to application.yml
+#
+#  Delete or ignore bootstrap.yml and use this:
