@@ -27,6 +27,8 @@
         <module>product-service-demo</module>
         <module>user-service-demo</module>
         <module>api-gateway-demo</module>
+        <module>reactive-demo</module>
+        <module>reactive-notification-system</module>
     </modules>
 
     <properties>
