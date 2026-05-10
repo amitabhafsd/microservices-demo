@@ -29,6 +29,7 @@
         <module>api-gateway-demo</module>
         <module>reactive-demo</module>
         <module>reactive-notification-system</module>
+        <module>spring-reactive-mongo-crud</module>
     </modules>
 
     <properties>

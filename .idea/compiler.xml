@@ -21,9 +21,19 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="false">
           <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.46/lombok-1.18.46.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.46/lombok-1.18.46.jar" />
         </processorPath>
         <module name="reactive-notification-system" />
         <module name="reactive-demo" />
+      </profile>
+      <profile name="Annotation profile for spring-reactive-mongo-crud" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.46/lombok-1.18.46.jar" />
+        </processorPath>
+        <module name="spring-reactive-mongo-crud" />
       </profile>
     </annotationProcessing>
   </component>
@@ -37,6 +47,7 @@
       <module name="product-service-demo" options="-parameters" />
       <module name="reactive-demo" options="-parameters" />
       <module name="reactive-notification-system" options="-parameters" />
+      <module name="spring-reactive-mongo-crud" options="-parameters" />
       <module name="user-service-demo" options="-parameters" />
     </option>
   </component>
